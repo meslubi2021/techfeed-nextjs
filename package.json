@@ -13,17 +13,17 @@
     "dayjs": "^1.10.7",
     "gray-matter": "^4.0.3",
     "image-to-base64": "^2.2.0",
-    "marked": "^4.0.4",
-    "next": "12.0.4",
+    "marked": "^4.0.10",
+    "next": "14.1.1",
     "next-mdx-remote": "^3.0.8",
-    "nodemailer": "^6.7.2",
+    "nodemailer": "^6.9.9",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-hook-form": "7.21.0",
     "react-icons": "^4.3.1",
     "remark": "^14.0.2",
     "remark-excerpt": "^1.0.0-beta.1",
-    "sanitize-html": "^2.5.2"
+    "sanitize-html": "^2.12.1"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.1.1",
@@ -32,7 +32,7 @@
     "eslint-config-next": "12.0.4",
     "install": "^0.13.0",
     "netlify-plugin-cache-nextjs": "^1.6.1",
-    "npm": "^8.1.4",
+    "npm": "^8.11.0",
     "postcss": "^8.4.4",
     "replace-in-files-cli": "^2.0.0",
     "tailwindcss": "^3.0.1"
